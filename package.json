@@ -1,0 +1,8 @@
+{
+  "name": "SendIpByMail",
+  "dependencies": {
+    "nodemailer": "6.4.6"
+  }
+}
+
+
